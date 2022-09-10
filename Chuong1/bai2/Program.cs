@@ -6,18 +6,18 @@ namespace b2 {
                 Nhap();
                 InKQ(Thuchien());
                 Console.Write("Tiep tuc: ");
-                kt=Console.ReadLine();
+                kt=Console.ReadLine()!;
             }
         }
         static float a,b;
-        static string toantu,kt="y";
+        static string toantu="",kt="y";
         static void Nhap() {
             Console.Write("a=");
-            a=float.Parse(Console.ReadLine());
+            a=float.Parse(Console.ReadLine()!);
             Console.Write("b=");
-            b=float.Parse(Console.ReadLine());
+            b=float.Parse(Console.ReadLine()!);
             Console.Write("Toan tu:");
-            toantu=Console.ReadLine();
+            toantu=Console.ReadLine()!;
         }
         static float Thuchien() {
             switch (toantu) {

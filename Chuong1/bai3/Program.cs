@@ -2,17 +2,17 @@
 namespace b3 {
     class Program {
         static int n;
-        static float[] A;
+        static float[] A=null!;
         static void Main(string[] args) {
             Console.Write("n=");
             n=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("A=");
             A=new float[n];
-            A[0]=float.Parse(Console.ReadLine());
+            A[0]=float.Parse(Console.ReadLine()!);
             float min=A[0],max=A[0],tong=0,tich=1;
             if (A[0]<0) tong=tong-A[0];
             for (int i=1;i<n;i++) {
-                A[i]=float.Parse(Console.ReadLine());
+                A[i]=float.Parse(Console.ReadLine()!);
                 if (A[i]>max) max=A[i];
                 else if (A[i]<min) min=A[i];
                 if (A[i]<0) tong=tong-A[i];

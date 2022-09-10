@@ -2,7 +2,7 @@
 namespace b4 {
     class Program {
         static int n;
-        static int[,] A;
+        static int[,] A=null!;
         static void Main(string[] args) {
             n=Convert.ToInt32(Console.ReadLine());
             String s="";
