@@ -1,0 +1,33 @@
+﻿using System;
+float[] A;
+string ten,lop,xeploai="";
+float gpa=0;
+int i;
+Console.Write("Ho va ten: ");
+ten=Console.ReadLine();
+Console.Write("Lop: ");
+lop=Console.ReadLine();
+Console.Write("Diem_QTH: ");
+A = new float[5];
+A[1]=float.Parse(Console.ReadLine());
+Console.Write("Diem_HTTTQL: ");
+A[2]=float.Parse(Console.ReadLine());
+Console.Write("Diem_CSLT: ");
+A[3]=float.Parse(Console.ReadLine());
+Console.Write("Diem_Triet: ");
+A[4]=float.Parse(Console.ReadLine());
+for (i=1;i<=4;i++) {
+    if (A[i]<4) A[i]=0;
+    else if (A[i]<5.5) A[i]=1;
+    else if (A[i]<7) A[i]=2;
+    else if (A[i]<8.5) A[i]=3;
+    else A[i]=4;
+}
+gpa=(A[1]+A[2]+A[3]+A[4])/4;
+if (gpa<2) xeploai="Yeu";
+if ((2<=gpa)&(gpa<2.5)) xeploai="Trung binh";
+if ((2.5<=gpa)&(gpa<3.2)) xeploai="Kha";
+if ((3.2<=gpa)&(gpa<3.6)) xeploai="Gioi";
+if (3.6<gpa) xeploai="Xuat sac";
+ten=ten.ToUpper();
+Console.WriteLine("Sinh vien {0}, Lop {1}, Dat GPA {2}, Xep loai {3}",ten,lop,gpa,xeploai);
