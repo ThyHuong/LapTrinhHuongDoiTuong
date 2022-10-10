@@ -1,0 +1,15 @@
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.csproj.AssemblyReference.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.AssemblyInfoInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.AssemblyInfo.cs
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.csproj.CoreCompileInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\bin\Debug\net6.0\bai5.exe
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\bin\Debug\net6.0\bai5.deps.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\bin\Debug\net6.0\bai5.runtimeconfig.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\bin\Debug\net6.0\bai5.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\bin\Debug\net6.0\bai5.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\refint\bai5.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\bai5.genruntimeconfig.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong4\bai5\obj\Debug\net6.0\ref\bai5.dll
