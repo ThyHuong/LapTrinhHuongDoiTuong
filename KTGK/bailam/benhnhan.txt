@@ -1,0 +1,16 @@
+191525;Tran Huy Hoang;Xuong Khop;Co;14
+124123;Le Thi Ha;Mat;Co;5
+121513;Nguyen Thanh Nga;Tieu hoa;Co;5
+198512;Nguyen Ngoc Huy;Lao;Khong;21
+192621;Tran Thi Hang;Covid;Co;21
+980125;Nguyen Gia Huy;Da day;Co;5
+123631;Vo Ha Tram;Xuong Khop;Co;3
+192126;Vu Thu Phuong;Covid;Co;21
+824122;Truong Van Thang;Tieu hoa;Khong;1
+612863;Tran Van Trung;Mat;Khong;2
+192621;Pham Cong Hoai;Covid;Co;14
+211752;Pham Thi Ngoc;Xuong Khop;Co;7
+199178;Le Van Huy;Lao;Khong;14
+129862;Pham Hoang My;Tieu hoa;Co;5
+180876;Le Trung Hieu;Covid;Khong;14
+133126;Nguyen Hoai Nam;Mat;Co;3

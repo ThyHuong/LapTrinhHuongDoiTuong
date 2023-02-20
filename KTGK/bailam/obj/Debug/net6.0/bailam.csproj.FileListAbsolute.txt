@@ -1,0 +1,15 @@
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\bin\Debug\net6.0\bailam.exe
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\bin\Debug\net6.0\bailam.deps.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\bin\Debug\net6.0\bailam.runtimeconfig.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\bin\Debug\net6.0\bailam.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\bin\Debug\net6.0\bailam.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.csproj.AssemblyReference.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.AssemblyInfoInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.AssemblyInfo.cs
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.csproj.CoreCompileInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\refint\bailam.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\bailam.genruntimeconfig.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTGK\bailam\obj\Debug\net6.0\ref\bailam.dll

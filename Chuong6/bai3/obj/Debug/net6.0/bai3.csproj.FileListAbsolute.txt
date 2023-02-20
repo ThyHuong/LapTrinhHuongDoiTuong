@@ -1,0 +1,15 @@
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\bin\Debug\net6.0\bai3.exe
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\bin\Debug\net6.0\bai3.deps.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\bin\Debug\net6.0\bai3.runtimeconfig.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\bin\Debug\net6.0\bai3.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\bin\Debug\net6.0\bai3.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.csproj.AssemblyReference.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.AssemblyInfoInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.AssemblyInfo.cs
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.csproj.CoreCompileInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\refint\bai3.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\bai3.genruntimeconfig.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\Chuong6\bai3\obj\Debug\net6.0\ref\bai3.dll

@@ -1,0 +1,15 @@
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.csproj.AssemblyReference.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.AssemblyInfoInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.AssemblyInfo.cs
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.csproj.CoreCompileInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\bin\Debug\net6.0\KTHP.exe
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\bin\Debug\net6.0\KTHP.deps.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\bin\Debug\net6.0\KTHP.runtimeconfig.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\bin\Debug\net6.0\KTHP.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\bin\Debug\net6.0\KTHP.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\refint\KTHP.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\KTHP.genruntimeconfig.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\KTHP\obj\Debug\net6.0\ref\KTHP.dll

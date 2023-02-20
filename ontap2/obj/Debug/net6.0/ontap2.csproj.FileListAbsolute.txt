@@ -1,0 +1,15 @@
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.csproj.AssemblyReference.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.AssemblyInfoInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.AssemblyInfo.cs
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.csproj.CoreCompileInputs.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\bin\Debug\net6.0\ontap2.exe
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\bin\Debug\net6.0\ontap2.deps.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\bin\Debug\net6.0\ontap2.runtimeconfig.json
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\bin\Debug\net6.0\ontap2.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\bin\Debug\net6.0\ontap2.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\refint\ontap2.dll
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.pdb
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ontap2.genruntimeconfig.cache
+D:\Personal\CSharp\LapTrinhHuongDoiTuong\ontap2\obj\Debug\net6.0\ref\ontap2.dll
